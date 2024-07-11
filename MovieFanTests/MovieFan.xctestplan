@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "6C300552-4316-4B02-B1EC-3FBDF1A1B6BC",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:MovieFan.xcodeproj",
+      "identifier" : "52F07A532C3F3590001CBC4C",
+      "name" : "MovieFan"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MovieFan.xcodeproj",
+        "identifier" : "52F07A692C3F3592001CBC4C",
+        "name" : "MovieFanTests"
+      }
+    }
+  ],
+  "version" : 1
+}
